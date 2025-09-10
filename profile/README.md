@@ -7,4 +7,4 @@
 
 ## Additional Projects (Worked on by some members)
 
-- CharGoldenYT | Universe Engine v1.0  ![50%](https://progress-bar.xyz/50)
+- CharGoldenYT | Universe Engine v1.0  ![52%](https://progress-bar.xyz/52)
