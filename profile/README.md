@@ -8,4 +8,4 @@
 
 ## Additional Projects (Worked on by some members)
 
-- CharGoldenYT | Universe Engine v1.0  ![52%](https://progress-bar.xyz/52) ![VoyaSmile](https://cdn.discordapp.com/emojis/1270911853442371666.webp?size=32&name=VoyaSmile)
+- CharGoldenYT | Universe Engine v1.0  ![54%](https://progress-bar.xyz/54) ![VoyaSmile](https://cdn.discordapp.com/emojis/1270911853442371666.webp?size=32&name=VoyaSmile)
